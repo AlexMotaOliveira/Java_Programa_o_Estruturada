@@ -1,6 +1,6 @@
 package capitulo_1;
 
-public class AlinhamentoEsquerda {
+public class Alinhamento_Esquerda {
 
     public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 package capitulo_1;
 
-public class EscritaMensagem {
+public class Escrita_Mensagem {
 
     public static void main(String[] args) {
 
