@@ -1,2 +1,3 @@
 # Java_Programação_Estruturada
- Esxercicios do livro de Java com Progrmação estruturada
+
+São exercicios basicos que auxiliam na fixação da sintaxe em Java com programação estruturada.
