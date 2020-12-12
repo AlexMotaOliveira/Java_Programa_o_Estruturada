@@ -1,4 +1,4 @@
-package capitulo_1;
+package capitulo_2;
 
 public class Escrita_Mensagem {
 
